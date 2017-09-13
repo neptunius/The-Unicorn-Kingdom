@@ -6,9 +6,9 @@ A young boy wanders into the back of a zoo and discovers a hidden gate that has 
 
 ## Cast
 
-1. Young Boy: Peter Dinklage
-1. Zookeeper: Morgan Freeman
-1. The Friendly Koala: Seth Rogan
-1. The Unicorn King: Nicolas Cage
-1. The Janitor: McCauley Culkin
-1. Pizza Delivery Girl: Tiny Fey
+- Young Boy: Peter Dinklage
+- Zookeeper: Morgan Freeman
+- The Unicorn King: Nicolas Cage
+- Pizza Delivery Girl: Tiny Fey
+- The Friendly Koala: Seth Rogan
+- The Janitor: McCauley Culkin
